@@ -1,0 +1,13 @@
+{
+    "name": "fero/group_mailing_integration",
+    "description": "Integrate an Elgg group with a mailing-list",
+    "type": "elgg-plugin",
+    "license": "GNU Affero Public License v3",
+    "authors": [
+        {
+            "name": "Luca Ferroni",
+            "email": "luca@befair.it"
+        }
+    ],
+    "require": {}
+}
